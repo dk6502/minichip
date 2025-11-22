@@ -1,0 +1,9 @@
+*
+!minichip.srcs/
+!minichip.srcs/*/
+!minichip.srcs/*/*
+!minichip.srcs/*/*/*
+!minichip.srcs/*/*/*/*
+!minichip.xpr
+!.gitignore
+!*.md
